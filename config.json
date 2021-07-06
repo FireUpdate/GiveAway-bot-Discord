@@ -1,0 +1,20 @@
+{
+    "token": "ODQ1ODIwOTQ5MjY1MjUyNDIy.YKmiJA.fbexBJRhQwdOMWu4gKpcZH2f5pE",
+    "giveawayRole": "Give Aways Host",
+    "ownerID": "833213256155922432",
+
+    "everyoneMention": false,
+    "hostedBy": true,
+    "botsCanWin": false,
+
+    "prefix": "!",
+
+    "embedColor": "#FF00FF",
+    "embedColorEnd": "#FF0000",
+    "reaction": "🎁",
+    "giveawayEmoji": "🎇",
+
+    "botName": "FrenzYXBOT Giveaways Controller",
+    "statusType": "Watching",
+    "statusActivity": "New Member"
+}
