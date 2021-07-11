@@ -1,19 +1,19 @@
 {
-    "giveawayRole": "Give Aways Host",
-    "ownerID": "833213256155922432",
+    "giveawayRole": "Fire",
+    "ownerID": "412223538292981763",
 
     "everyoneMention": false,
     "hostedBy": true,
     "botsCanWin": false,
 
-    "prefix": "!",
+    "prefix": "f!",
 
     "embedColor": "#FF00FF",
     "embedColorEnd": "#FF0000",
     "reaction": "🎁",
     "giveawayEmoji": "🎇",
 
-    "botName": "FrenzYXBOT Giveaways Controller",
+    "botName": "FireBot",
     "statusType": "Watching",
-    "statusActivity": "New Member"
+    "statusActivity": "Giveaways with Fire!"
 }
